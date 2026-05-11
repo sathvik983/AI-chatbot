@@ -45,13 +45,7 @@ AI_Chatbot/
 python chatbot.py
 ```
 
----
 
-## 📸 Output Screenshot
-
-(Add your chatbot screenshot here)
-
----
 
 ## 👨‍💻 Author
 
