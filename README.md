@@ -1,4 +1,4 @@
-# 🤖 AI Chatbot using Python
+#  AI Chatbot using Python
 
 An interactive AI Chatbot developed using Python and Tkinter GUI as part of the ALGONIVE Python Programming Internship.
 
