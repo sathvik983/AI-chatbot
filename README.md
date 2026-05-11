@@ -1,24 +1,58 @@
-# AI Chatbot using Python
+#  AI Chatbot using Python
 
-This project is developed as part of the ALGONIVE Python Programming Internship.
+An interactive AI Chatbot developed using Python and Tkinter GUI as part of the ALGONIVE Python Programming Internship.
 
-## Features
-- Professional GUI Chatbot
-- User-friendly dark interface
+---
+
+## 🚀 Features
+
+- Interactive GUI chatbot
+- User-friendly dark theme
 - Responds to greetings and queries
-- Displays date and time
-- Interactive chat window
+- Displays current date and time
+- Simple NLP-based response system
+- Beginner-friendly AI project
 
-## Technologies Used
-- Python
-- Tkinter
-- NLP Basics
+---
 
-## How to Run
+## 🛠️ Technologies Used
+
+| Technology | Purpose |
+|------------|---------|
+| Python | Core Programming |
+| Tkinter | GUI Development |
+| Random Module | Response Generation |
+| Datetime | Date & Time Handling |
+
+---
+
+## 📂 Project Structure
+
+```text
+AI_Chatbot/
+│
+├── chatbot.py
+├── README.md
+├── requirements.txt
+└── screenshots/
+```
+
+---
+
+## ▶️ How to Run
 
 ```bash
 python chatbot.py
 ```
 
-## Author
+---
+
+## 📸 Output Screenshot
+
+(Add your chatbot screenshot here)
+
+---
+
+## 👨‍💻 Author
+
 Sathvik
